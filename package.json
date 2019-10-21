@@ -12,9 +12,6 @@
   "dependencies": {
     "react-ui-scripts": "^0.1.15"
   },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
   "browserslist": {
     "production": [
       ">0.2%",
