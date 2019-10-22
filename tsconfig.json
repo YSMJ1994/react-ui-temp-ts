@@ -19,8 +19,7 @@
       "toolSrc/*": ["node_modules/react-ui-scripts/src/*"],
       "components/*": ["components/*"],
       "unknown": ["node_modules/react-ui-scripts/assets/components/comps.js"]
-    },
-    "declaration": true
+    }
   },
-  "include": ["components"]
+  "include": ["components/**/*", "node_modules/react-ui-scripts/**/*"]
 }
