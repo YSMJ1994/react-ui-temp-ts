@@ -11,7 +11,7 @@
     "publish": "cd build-library && git init && yarn publish"
   },
   "dependencies": {
-    "react-ui-scripts": "^0.1.34"
+    "react-ui-scripts": "^0.1.35"
   },
   "browserslist": {
     "production": [
